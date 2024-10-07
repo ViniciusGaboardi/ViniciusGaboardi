@@ -6,9 +6,8 @@ Currently working harder and harder to learn more and more about different types
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusgaboardi&show_icons=true&locale=en&layout=compact" alt="viniciusgaboardi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgaboardi&show_icons=true&locale=en" alt="viniciusgaboardi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusgaboardi&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="viniciusgaboardi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgaboardi&show_icons=true&theme=cobalt&locale=en" alt="viniciusgaboardi" /></p>
 
 ---
 
