@@ -1,5 +1,5 @@
 ## 👋 Vinícius Gaboardi Silva
-
+#
 **Aspiring Developer in the making** 
 
 Currently working as much as possible to learn more and more about different types of coding and different languages in order to further my own perspectives and to learn how to come up with new fun ideas in how to implement new creative stuff in this digital landscape we are residing on.
@@ -24,7 +24,7 @@ Currently working as much as possible to learn more and more about different typ
 <img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <br />
 
-#
+---
 
 <div align="left">
   <a href="https://linkedin.com/in/vinícius-gaboardi-silva-710024325" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
