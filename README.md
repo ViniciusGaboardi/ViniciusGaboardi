@@ -1,5 +1,5 @@
 ## 👋 Vinícius Gaboardi Silva
-##**Aspiring Developer in the making** 
+**Aspiring Developer in the making** 
 
 Currently working as much as possible to learn more and more about different types of coding and different languages in order to further my own perspectives and to learn how to come up with new fun ideas in how to implement new creative stuff in this digital landscape we are residing on.
 
