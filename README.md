@@ -6,6 +6,12 @@ Currently working harder and harder to learn more and more about different types
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusgaboardi&show_icons=true&locale=en&layout=compact" alt="viniciusgaboardi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgaboardi&show_icons=true&locale=en" alt="viniciusgaboardi" /></p>
+
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -20,7 +26,3 @@ Currently working harder and harder to learn more and more about different types
 <br />
 
 #
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusgaboardi&show_icons=true&locale=en&layout=compact" alt="viniciusgaboardi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgaboardi&show_icons=true&locale=en" alt="viniciusgaboardi" /></p>
