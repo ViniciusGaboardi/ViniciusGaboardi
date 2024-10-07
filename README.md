@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Vinícius Gaboardi Silva
 
-<!--
-**ViniciusGaboardi/ViniciusGaboardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Developer in the making** 
 
-Here are some ideas to get you started:
+Currently working harder and harder to learn more and more about different types of coding and different languages in order to further my own perspectives and to learn new ways to come up with new fun ideas to implement in this digital landscape we are residing on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-oiriginal.svg"/>
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="Java" width="30px" Style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<br />
+
+#
