@@ -1,7 +1,7 @@
 ## 👋 Vinícius Gaboardi Silva
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&left=true&vCenter=true&width=1000&lines=Greetings.+My+name+is+Vinícius+Gaboardi+Silva;An+aspiring+developer+in+the+making;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-Currently learning more and more about different types of coding and different languages in order to further my own perspectives and to learn how to come up with new fun ideas in how to implement new creative stuff in this digital landscape we are residing on.
+Currently learning more and more about different types of coding and different languages in order to further my own perspectives and to learn how to come up with new fun ideas in how to implement new creative stuff in this digital landscape we reside on.
 
 ---
 
